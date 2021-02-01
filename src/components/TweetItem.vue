@@ -33,7 +33,6 @@ export default {
 };
 </script>
 
-
 <style lang='scss' scoped>
 .tweet-item{
     padding: 20px;
