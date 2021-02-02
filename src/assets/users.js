@@ -1,11 +1,11 @@
 export const users = {
-    "kaustubh":
+    "kanye":
     {
         "id": 1,
-        "username": "kaustubh",
-        "firstName": "Kaustubh",
-        "lastName": "Bhagwat",
-        "email": "hello@kaustubh.app",
+        "username": "kanye",
+        "firstName": "Kanye",
+        "lastName": "West",
+        "email": "kanye@kanye.com",
         "isVerified": true,
         "tweets": [
           { "id":1, "text": "Man.. Ninjas are cool. I just don't know any personally" },

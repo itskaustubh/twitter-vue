@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <div class='nav'>
+      <router-link to='/'>
       <div id='nav-logo'>SocialFeed</div>
+      </router-link>
       <div id='nav-id'>kaustubh</div>
     </div>
     <router-view/>
